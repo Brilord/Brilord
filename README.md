@@ -1,5 +1,4 @@
 
-![image](https://github.com/Brilord/Brilord/assets/95247252/9cf6017f-7f95-4952-959a-af551c70c0c8)
 Hello there!
 
 Student at Indiana University!
