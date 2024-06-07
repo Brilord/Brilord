@@ -5,6 +5,7 @@ Student at Indiana University!
 
 Email: brilord1000@gmail.com
 
+My Personal Website! PLS take a look you won't regret it :)
 https://my-profile-website-lilac.vercel.app/
 
 <h3 align="left">Languages and Tools:</h3>
