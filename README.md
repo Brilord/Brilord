@@ -16,7 +16,7 @@ Hello Fellow devs people who love tech! I am a passionate learner and crafting m
 
 
 ## 📫 Contact
-- LinkedIn: [[linkedin.com/in/your-profile](www.linkedin.com/in/brian-won-36716823b/))
+- LinkedIn: www.linkedin.com/in/brian-won-36716823b/
 - Email: brilord1000@gmail.com
 
 ## ⚡ Fun Facts
