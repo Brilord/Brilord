@@ -9,6 +9,9 @@ https://brian-helldiver.vercel.app/
 Also check out my Tool for helping out with other productivity apps (Still working progress !!)
 https://b-always-website-tool.vercel.app/
 
+Check out my PantryTrackerTool live now :D
+https://panntry-tracker-tool.vercel.app/
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
