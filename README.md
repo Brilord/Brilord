@@ -4,7 +4,7 @@ Student at Indiana University!
 Love Coding and developing new technologies!
 
 My Personal Website! PLS take a look you won't regret it :)
-https://brian-helldiver.vercel.app/
+https://brian-projects.vercel.app/
 
 Also check out my Tool for helping out with other productivity apps (Still working progress !!)
 https://b-always-website-tool.vercel.app/
