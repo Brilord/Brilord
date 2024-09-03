@@ -63,10 +63,16 @@ https://panntry-tracker-tool.vercel.app/
 <p align="left">
   <a href="https://www.jetbrains.com/toolbox-app/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains toolbox" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-  </a>
+</a>
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse" width="40" height="40"/>
+</a>
+
+
+
 </p>
 
 <h3 align="left">Frameworks:</h3>
@@ -106,21 +112,23 @@ https://panntry-tracker-tool.vercel.app/
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/>
   </a>
-  
-
 </p>
-
-
-
 </p>
 
 Hello Fellow devs people who love tech! I am a passionate learner and crafting my skills in coding with currently making projects that can be scaled up! Really love what I am doing. See ya people soon in the tech industry! You will be glad to work beside me :D 
 
 ---
 ## 📫 Contact
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/brian-won-36716823b)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/your-instagram-handle/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+<a href="https://linkedin.com/in/brian-won-36716823b" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://instagram.com/your-instagram-handle/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
+</a>
+
 - Email: brilord1000@gmail.com
 ---
 ## ⚡ Fun Hobbies
