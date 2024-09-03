@@ -9,6 +9,7 @@ https://b-always-website-tool.vercel.app/
 Check out my PantryTrackerTool live now :D
 https://panntry-tracker-tool.vercel.app/
 
+---
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -32,7 +33,9 @@ https://panntry-tracker-tool.vercel.app/
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
+  
 </p>
+
 
 <h3 align="left">Tools:</h3>
 <p align="left">
@@ -70,11 +73,7 @@ https://panntry-tracker-tool.vercel.app/
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse" width="40" height="40"/>
 </a>
-
-
-
 </p>
-
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -114,18 +113,18 @@ https://panntry-tracker-tool.vercel.app/
   </a>
 </p>
 </p>
-
-Hello Fellow devs people who love tech! I am a passionate learner and crafting my skills in coding with currently making projects that can be scaled up! Really love what I am doing. See ya people soon in the tech industry! You will be glad to work beside me :D 
+Hello Fellow devs people who love tech! I am a passionate learner and crafting my skills in coding with currently making projects that can be scaled up! Really love what I am doing. See ya people soon in the tech industry!
+ You will be glad to work beside me :D 
 
 ---
 ## 📫 Contact
 <a href="https://linkedin.com/in/brian-won-36716823b" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="https://instagram.com/your-instagram-handle/" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/killer76_killer76/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
 </a>
-<a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noreferrer">
+<a href="https://x.com/wondoyeon19" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
 </a>
 
