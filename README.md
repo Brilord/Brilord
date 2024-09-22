@@ -1,4 +1,4 @@
-# Brian Won
+<h1>Brian Won <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" alt="Brilord GIF" style="width: 30px; vertical-align: middle;"></h1>
 ---
 Student at Indiana University! Junior
 Love Coding and developing new technologies!
@@ -9,7 +9,14 @@ https://b-always-website-tool.vercel.app/
 Check out my PantryTrackerTool live now :D
 https://panntry-tracker-tool.vercel.app/
 
----
+
+
+
+
+
+
+
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
